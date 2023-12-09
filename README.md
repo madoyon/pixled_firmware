@@ -1,4 +1,4 @@
-# PIXLED Bluetooth Demo
+# PIXLED Bluetooth Demo 💡
 
 PIXLED Bluetooth Demo is a project that demonstrates a custom Bluetooth application with a WS2811 LED strip. It is based on the NimBLE_Server Demo written by H2zero.
 
